@@ -1,7 +1,7 @@
 # softeng-term-pub
 ##Contributors
 - 박종훈 2011120240 norary3
-- 허능호 2012190706 ahsib1
+- 허능호 2012190706 ahsib1, ahsib12
 - 황서연 2012190720 hsy159
 - 박채흠 2012210042 chaeheum3
 - 김재훈 2013171058 narwhal93
